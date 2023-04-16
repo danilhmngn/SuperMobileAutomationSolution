@@ -4,9 +4,13 @@ These are my code solution to super mobile automation testing
 Dependencies:
 
 #Java JDK ---> jdk-17.0.2
+
 #Java Client --> java-client-8.3.0
+
 #Selenium Binding --> selenium-java-4.8.3
+
 #Apache common lang --> commons-lang3-3.12.0
+
 #Google Guava --> guava-31.1-jre
 
 please connect to appium server before running these code
