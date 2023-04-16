@@ -24,3 +24,9 @@ after that
 
 BTW i run this code in Intellij IDE
 
+#Please use this APK ---> https://m.apkpure.com/to-do-list/com.splendapps.splendo/download/169-APK
+
+#because the latest APK is in XAPK format --> so that i couldnt inspect the element with appium inspector
+
+#then ---> i use to do list apps old apk to build this code solution --> Sep 27, 2002 
+
