@@ -20,6 +20,7 @@ if there is any minor issue while running these code, especially when set time
 then 
 
 #please, kill the apps in the mobile and do clear data
+
 #restart appium server --> reconnect
 
 after that
