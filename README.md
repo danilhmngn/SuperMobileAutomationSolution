@@ -35,3 +35,7 @@ BTW i run this code in Intellij IDE
 
 #then ---> i use to do list apps old apk to build this code solution --> Sep 27, 2002 
 
+
+
+**UPDATED --> Please adjust the desired capabilities on the code based on your mobile spesification 
+
